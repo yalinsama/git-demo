@@ -27,3 +27,6 @@ hello,git!hello,yalin! test test...
 --------------------test commit1
 --------------------test commit1
 --------------------test commit1
+--------------------test commit2
+--------------------test commit2
+--------------------test commit2

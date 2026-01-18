@@ -24,3 +24,6 @@ hello,git!hello,yalin! test test...
 这是在线添加的
 这是测试ssh-push
 这是测试ssh-pull
+--------------------test commit1
+--------------------test commit1
+--------------------test commit1
